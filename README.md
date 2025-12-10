@@ -87,3 +87,8 @@ To contribute:
 2. Create a feature/ or fix/ branch.
 3. Make changes and ensure TypeScript compiles.
 4. Open a Pull Request describing the change and include screenshots where helpful.
+
+License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+Copyright (c) 2025 Dhruv Goel
